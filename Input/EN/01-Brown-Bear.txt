@@ -1,0 +1,11 @@
+Brown Bear, Brown Bear, What do you see? I see a red bird looking at me.
+Red Bird, Red Bird, What do you see? I see a yellow duck looking at me.
+Yellow Duck, Yellow Duck, What do you see? I see a blue horse looking at me.
+Blue Horse, Blue Horse, What do you see? I see a green frog looking at me.
+Green Frog, Green Frog, What do you see? I see a purple cat looking at me.
+Purple Cat, Purple Cat, What do you see? I see a white dog looking at me.
+White Dog, White Dog, What do you see? I see a black sheep looking at me.
+Black Sheep, Black Sheep, What do you see? I see a goldfish looking at me.
+Goldfish, Goldfish, What do you see? I see a teacher looking at me.
+Teacher, Teacher, What do you see? I see children looking at me.
+Children, Children, What do you see? We see a brown bear, a red bird, a yellow duck, a blue horse, a green frog, a purple cat, a white dog, a black sheep, a goldfish and a teacher looking at us. That's what we see.
