@@ -1,6 +1,7 @@
 # Speed-reading PDF generator
 
-Folders:
+## Folders
+
 * `Input`
   * `EN` - here are the source files
 * `Output` - an empty folder which will include the generated PDF files
@@ -11,3 +12,11 @@ Folders:
 `cd Scripts`
 
 `python pdf-generator.py`
+
+## Contact
+
+Michal Juhas &middot; https://michaljuhas.com 
+
+## License
+
+[MIT License](/LICENSE.md)
